@@ -6,10 +6,10 @@ COPY package.json ./
 
 COPY package-lock.json ./
 
-RUN npm install
+RUN npm install -D
 
 COPY . ./app
 
 EXPOSE 3000
 
-CMD ["npm", "start"]
+CMD ["npm", "start-prod"]
