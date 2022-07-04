@@ -29,7 +29,7 @@
     "file-loader": "^6.0.0",
     "image-webpack-loader": "^6.0.0",
     "mini-css-extract-plugin": "^0.9.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.1",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "postcss-loader": "2.0.6",
     "sass-loader": "6.0.6",
@@ -41,7 +41,7 @@
     "websocket-extensions": ">=0.1.4"
   },
   "dependencies": {
-    "amqplib": "^0.5.6",
+    "amqplib": "^0.10.0",
     "body-parser": "1.18.2",
     "bootstrap": "^4.5.0",
     "cookie-parser": "^1.4.5",
@@ -50,7 +50,7 @@
     "ignore-styles": "5.0.1",
     "isomorphic-fetch": "2.2.1",
     "js-cookie": "^2.2.1",
-    "prop-types": "15.6.0",
+    "prop-types": "^15.8.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
